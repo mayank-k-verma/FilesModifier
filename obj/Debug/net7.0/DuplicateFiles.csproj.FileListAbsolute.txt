@@ -1,0 +1,14 @@
+/Users/30111693/Desktop/Projects/DuplicateFiles/bin/Debug/net7.0/DuplicateFiles
+/Users/30111693/Desktop/Projects/DuplicateFiles/bin/Debug/net7.0/DuplicateFiles.deps.json
+/Users/30111693/Desktop/Projects/DuplicateFiles/bin/Debug/net7.0/DuplicateFiles.runtimeconfig.json
+/Users/30111693/Desktop/Projects/DuplicateFiles/bin/Debug/net7.0/DuplicateFiles.dll
+/Users/30111693/Desktop/Projects/DuplicateFiles/bin/Debug/net7.0/DuplicateFiles.pdb
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.AssemblyInfoInputs.cache
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.AssemblyInfo.cs
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.csproj.CoreCompileInputs.cache
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.dll
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/refint/DuplicateFiles.dll
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.pdb
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/DuplicateFiles.genruntimeconfig.cache
+/Users/30111693/Desktop/Projects/DuplicateFiles/obj/Debug/net7.0/ref/DuplicateFiles.dll
